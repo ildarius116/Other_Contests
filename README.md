@@ -1,4 +1,4 @@
-# Yandex_Contest
+# Other_Contests
 
 __*Различные тесты*__
 
